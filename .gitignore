@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DTO/bin/Debug/net6.0
+/DTO/obj
+/Entity/bin/Debug/net6.0
+/Entity/obj
+/Repository/bin/Debug/net6.0
+/Repository/obj
+/Services/bin/Debug/net6.0
+/Services/obj
+/TimeTrackingApp/.vs
+/TimeTrackingApp/bin/Debug/net6.0-windows
+/TimeTrackingApp/obj
