@@ -1,3 +1,4 @@
+using DIFactory;
 using DTO;
 using Entity;
 using Microsoft.EntityFrameworkCore;
@@ -5,9 +6,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Repository;
 using Services;
-using System.Windows.Forms;
-using System;
-using TimeKeeping.DI_Factory;
 using TimeKeeping.Users;
 
 namespace TimeKeeping

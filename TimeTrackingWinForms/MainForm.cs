@@ -1,7 +1,5 @@
-using Entity;
-using Repository;
+using DIFactory;
 using Services;
-using TimeKeeping.DI_Factory;
 using TimeKeeping.Users;
 
 namespace TimeKeeping;

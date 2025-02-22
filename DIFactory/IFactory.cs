@@ -1,4 +1,4 @@
-﻿namespace TimeKeeping.DI_Factory;
+﻿namespace DIFactory;
 
 public interface IFactory<T>
 {

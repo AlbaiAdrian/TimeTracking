@@ -14,3 +14,17 @@
 /TimeTrackingApp/.vs
 /TimeTrackingApp/bin/Debug/net6.0-windows
 /TimeTrackingApp/obj
+/DTO/bin/Release/net6.0
+/Entity/bin/Release/net6.0
+/Repository/bin/Release/net6.0
+/Services/bin/Release/net6.0
+/TimeTrackingWinForms/.vs
+/TimeTrackingWinForms/bin
+/TimeTrackingWinForms/obj
+/TimeTrackingWinForms/Properties/PublishProfiles
+/TimeTrackingWpf/bin
+/TimeTrackingWpf/obj
+/DIFactory/bin/Debug/net6.0
+/DIFactory/obj
+/ExcelGenerator/bin/Debug/net6.0
+/ExcelGenerator/obj
