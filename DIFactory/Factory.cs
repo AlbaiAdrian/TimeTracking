@@ -1,5 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-namespace TimeKeeping.DI_Factory;
+using System;
+
+namespace DIFactory;
 
 public class Factory<T> : IFactory<T> where T : class
 {

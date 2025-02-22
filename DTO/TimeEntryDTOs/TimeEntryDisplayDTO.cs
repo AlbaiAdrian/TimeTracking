@@ -6,7 +6,7 @@ public class TimeEntryDisplayDTO
 
     public DateTime Entry { get; set; }
 
-    public DateTime Exit { get; set; }
+    public DateTime? Exit { get; set; }
 
     public double WorkedTime { get; set; }
 }

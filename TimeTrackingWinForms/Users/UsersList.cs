@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
+using DIFactory;
 using DTO.UserDTOs;
 using Services;
-using TimeKeeping.DI_Factory;
 
 namespace TimeKeeping.Users;
 

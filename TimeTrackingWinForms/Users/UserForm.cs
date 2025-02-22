@@ -41,7 +41,7 @@ public partial class UserForm : Form
         Close();
     }
 
-    public UserDisplayDTO Open(UserDisplayDTO userDisplayDTO)
+    public UserDisplayDTO Open(UserDisplayDTO? userDisplayDTO)
     {
         if (userDisplayDTO != null)
         {
